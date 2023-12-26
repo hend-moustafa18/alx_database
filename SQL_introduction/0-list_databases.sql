@@ -1,2 +1,2 @@
 --lists all databases of MY MySQL server.
-mysql -u username -p password -e "show databases;
+mysql -u username -p password -e "SHOW DATABASES;"
